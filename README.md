@@ -1,6 +1,7 @@
 # WorldAtlas 🌐
 
-![WorldAtlas](https://github.com/user-attachments/assets/a80b704f-72d8-4f50-a583-3947d143ea5d)
+[![WorldAtlas](https://github.com/user-attachments/assets/a80b704f-72d8-4f50-a583-3947d143ea5d)](https://world-atlas-tau.vercel.app/)
+
 
 Welcome to **WorldAtlas**, your ultimate guide to exploring countries around the globe! This project is built with React and Vite, providing a seamless and fast user experience. Dive into the details of any country with ease and enjoy a sleek, modern interface.
 
