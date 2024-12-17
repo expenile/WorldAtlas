@@ -73,8 +73,8 @@ I have utilized the **REST Countries API** to fetch detailed information about c
 
 ## Contributing
 
-We welcome contributions! Please fork the repository and submit a pull request for any improvements or bug fixes.
+I welcome contributions! Please fork the repository and submit a pull request for any improvements or bug fixes.
 
 ---
 
-Thank you for checking out **WorldAtlas**! We hope you enjoy exploring the world with us. 🌐
+Thank you for checking out **WorldAtlas**! I hope you enjoy exploring the world with us. 🌐
